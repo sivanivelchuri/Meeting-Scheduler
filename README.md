@@ -1,4 +1,4 @@
-# Discover the Success Story of .NetForte's Full Stack .NET Journey
+# Discover the Success Story of .NetForte's Full Stack Journey
 🗓️ Meeting Scheduler – Group 11
 This Meeting Scheduler project is a significant milestone in my journey toward mastering the .NET ecosystem. Developed collaboratively by Group 11, it stands out among all group projects for offering a robust, scalable, and user-friendly web-based meeting management solution.
 
